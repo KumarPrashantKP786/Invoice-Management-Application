@@ -1,0 +1,17 @@
+.header {
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px;
+    padding-bottom:20px
+}
+
+.HRCLogo {
+    position: absolute;
+    top: 2%;
+    text-align: center;
+    padding-block: 10px;
+    vertical-align: center;
+    padding-left:650px;
+    
+}
